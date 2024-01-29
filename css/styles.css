@@ -877,6 +877,9 @@ grid-column: span 2;
     .top_card-desk{
       margin-bottom: 15px;
     }
+    .top_card-stats{
+      min-width: 386px;
+    }
     .footer_logo{
       width: 100%;
       margin-bottom: 24px;
